@@ -17,7 +17,8 @@ body {
   min-height: 80vh;
 }
 
-.about-picture {
+.about-picture,
+#progress {
   background: url(../imgs/about-sec-img.jpeg) center/cover no-repeat fixed;
 }
 
